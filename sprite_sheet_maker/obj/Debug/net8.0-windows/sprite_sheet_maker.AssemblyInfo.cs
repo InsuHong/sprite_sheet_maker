@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sprite_sheet_maker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff8b3b5b68e83a169c1e0a12f8331eccf1127cf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("sprite_sheet_maker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sprite_sheet_maker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

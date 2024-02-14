@@ -1,0 +1,8 @@
+/packages
+/.vs
+/azure-pipelines.yml
+
+/sprite_sheet_maker/obj
+/sprite_sheet_maker/bin
+/sprite_sheet_maker/publish
+/sprite_sheet_maker/Connected Services
