@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sprite_sheet_maker/1.0.0": {
+        "runtime": {
+          "sprite_sheet_maker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sprite_sheet_maker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

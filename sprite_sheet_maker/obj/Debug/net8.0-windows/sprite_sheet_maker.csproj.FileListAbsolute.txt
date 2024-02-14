@@ -1,0 +1,16 @@
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\bin\Debug\net8.0-windows\sprite_sheet_maker.exe
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\bin\Debug\net8.0-windows\sprite_sheet_maker.deps.json
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\bin\Debug\net8.0-windows\sprite_sheet_maker.runtimeconfig.json
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\bin\Debug\net8.0-windows\sprite_sheet_maker.dll
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\bin\Debug\net8.0-windows\sprite_sheet_maker.pdb
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.Form1.resources
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.csproj.GenerateResource.cache
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.AssemblyInfoInputs.cache
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.AssemblyInfo.cs
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.csproj.CoreCompileInputs.cache
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.dll
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\refint\sprite_sheet_maker.dll
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.pdb
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\sprite_sheet_maker.genruntimeconfig.cache
+C:\Users\홍인수\source\repos\sprite_sheet_maker\sprite_sheet_maker\obj\Debug\net8.0-windows\ref\sprite_sheet_maker.dll
